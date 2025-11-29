@@ -1,0 +1,12 @@
+{
+  "Person_1": [
+    {
+      "document_id": "lab_result_20251129_001101",
+      "document_type": "lab_result",
+      "original_file": "mock_blood_report_Arjun_Kapoor.pdf",
+      "upload_date": "2025-11-29T00:11:01.773391",
+      "text_file": "patient_medical_records\\Person_1\\lab_result_20251129_001101.txt",
+      "text_preview": "--- Page 1 ---\nAarogya Diagnostics Pvt. Ltd.\n\nAccredited Lab - ISO 15189\n\nComplete Blood & Biochemistry Report\n\nPatient Name: Arjun Kapoor\n\nPatient ID: ARJ-2025-0119\n\nReferring Physician: Dr. Meena Pa..."
+    }
+  ]
+}
